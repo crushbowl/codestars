@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>EA615FAC-1E70-4EB4-8B61-D00B22F54094</string>
+	<string>9EA21ECE-EF49-4555-8E58-A36477D43C0B</string>
 	<key>IDESourceControlProjectName</key>
-	<string>Problem_Set_4</string>
+	<string>RPNCalculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FC82FB3F3CB89390C51AABC97789DBA09430C30B</key>
 		<string>https://github.com/crushbowl/codestars.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>week_3/Problem_Set_4/Problem_Set_4.xcodeproj</string>
+	<string>week_4/RPNCalculator/RPNCalculator.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FC82FB3F3CB89390C51AABC97789DBA09430C30B</key>
